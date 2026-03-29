@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bashitha Dilhara
-### Undergraduate Student & Software Engineering Enthusiast 🚀
+### Undergraduate Student @ SLIIT | Software Engineering Enthusiast 🚀
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
@@ -24,16 +24,15 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashitha0122&show_icons=true&theme=tokyonight&hide_border=false" alt="Bashitha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bashitha0122&show_icons=true&theme=react&hide_border=false" alt="Bashitha's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashitha0122&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashitha0122&layout=compact&theme=react&hide_border=false" alt="Top Langs" />
 </p>
 
 ---
